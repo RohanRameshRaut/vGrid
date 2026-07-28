@@ -1,0 +1,13 @@
+1. What is text editor?
+
+(Considering only text files).
+A text editor is a facility, provided to read/write/update/delete text using a cmd line or gui interface
+-we can open existing text file
+-create a new file
+-delete file/file content
+-multiple windows/tabs operations can be performed
+-text featuring is also there like: personalised text/window, file extendsions, text processing(unicode, ascii etc), editors shortcut/navigation keys
+-all types of characters, notations and languages should be supported
+-cursor, key, window manipulation.
+
+
